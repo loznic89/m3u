@@ -1,0 +1,615 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7863_41A_1_C00000_0_0_0.png" tvg-id="1357898469b87c6f91bf8ab0ccccd1a8" tvg-chno="1",LA 1 HD
+http://192.168.1.205:9981/stream/channelid/76109587?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1A2_3E8_22D4_EEEE0000_0_0_0.png" tvg-id="7802396361996c180c217311d5c0c2ce" tvg-chno="2",La 2 HD
+http://192.168.1.205:9981/stream/channelid/1664680568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7534_426_1_C00000_0_0_0.png" tvg-id="006a2d84a082bae61f57bd9a0fb52fda" tvg-chno="3",ANTENA 3 HD
+http://192.168.1.205:9981/stream/channelid/70085120?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7535_426_1_C00000_0_0_0.png" tvg-id="266f70a871e56094f1f97eaf66428077" tvg-chno="4",CUATRO HD
+http://192.168.1.205:9981/stream/channelid/678457126?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7536_426_1_C00000_0_0_0.png" tvg-id="dd196b6649c286f18d3512e672f8c6c0" tvg-chno="5",TELECINCO HD
+http://192.168.1.205:9981/stream/channelid/1718295005?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7537_426_1_C00000_0_0_0.png" tvg-id="3ef7548ce01f595d81abeb2b765e228b" tvg-chno="6",LA SEXTA HD
+http://192.168.1.205:9981/stream/channelid/206894910?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_788C_414_1_C00000_0_0_0.png" tvg-id="37434cd68ac59ea4c27a3686eebcc4e3" tvg-chno="7",#0 HD
+http://192.168.1.205:9981/stream/channelid/1447838519?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74CE_3F8_1_C00000_0_0_0.png" tvg-id="8adb21bd2ac69daad95e9694965243ec" tvg-chno="7",#VAMOSHD
+http://192.168.1.205:9981/stream/channelid/1025629066?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7504_420_1_C00000_0_0_0.png" tvg-id="494feedfa5f992119848a2e5c2bcd9df" tvg-chno="7",FOX HD
+http://192.168.1.205:9981/stream/channelid/1609453385?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_750F_420_1_C00000_0_0_0.png" tvg-id="4aa9ec94092504e49768f52fb40fc9cb" tvg-chno="8",M. LaLiga HD
+http://192.168.1.205:9981/stream/channelid/351054154?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png" tvg-id="6844a1439d58d461d0f861e0163d4f5d" tvg-chno="8",M.LCAMPEONES
+http://192.168.1.205:9981/stream/channelid/1134642280?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7855_41A_1_C00000_0_0_0.png" tvg-id="5484c33fb56e1f35a6f3a4ee9e5bb3f7" tvg-chno="9",DAZN 1 HD
+http://192.168.1.205:9981/stream/channelid/1069778004?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7531_426_1_C00000_0_0_0.png" tvg-id="d44ca26e543f5be35e728460c3feb8fa" tvg-chno="9",DAZN F1 HD
+http://192.168.1.205:9981/stream/channelid/1856130260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_65_12_22D4_EEEE0000_0_0_0.png" tvg-id="75a0ad91d81d68c928c27b2d773a3850" tvg-chno="10",Atreseries HD
+http://192.168.1.205:9981/stream/channelid/296591477?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_865_10A_22D4_EEEE0000_0_0_0.png" tvg-id="2c855cf6c9040afabe611263d0ddc74c" tvg-chno="10",Canal Sur HD
+http://192.168.1.205:9981/stream/channelid/1985774892?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_9B_11_22D4_EEEE0000_0_0_0.png" tvg-id="33492e7861c70b974dae05b4edf0d933" tvg-chno="10",Mega
+http://192.168.1.205:9981/stream/channelid/2016299315?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png" tvg-id="c4ef858c97e6c4923cee4e77dbf776df" tvg-chno="11",M. SERIES HD
+http://192.168.1.205:9981/stream/channelid/210104260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7882_414_1_C00000_0_0_0.png" tvg-id="e33158350f563e2418a229dafcf62f8b" tvg-chno="12",M. SERIES  2 HD
+http://192.168.1.205:9981/stream/channelid/894972387?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_866_10A_22D4_EEEE0000_0_0_0.png" tvg-id="d70a8594940fd277ceb674cbb68281ee" tvg-chno="13",BOM
+http://192.168.1.205:9981/stream/channelid/344263383?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_115_E_22D4_EEEE0000_0_0_0.png" tvg-id="59aba2047ae768983153658e8550d9d0" tvg-chno="13",Discovery Max
+http://192.168.1.205:9981/stream/channelid/77769561?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_A029_9C40_22D4_EEEE0000_0_0_0.png" tvg-id="5bf84f580e61ce24d5ed808428ac6c32" tvg-chno="13",DKISS
+http://192.168.1.205:9981/stream/channelid/1481635931?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_A033_9C40_22D4_EEEE0000_0_0_0.png" tvg-id="33a762a14c5621f9347b126aad215b61" tvg-chno="13",TEN
+http://192.168.1.205:9981/stream/channelid/560113459?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_AA_11_22D4_EEEE0000_0_0_0.png" tvg-id="befba5f03ab8da6e94571ada31b0062b" tvg-chno="13",TRECE
+http://192.168.1.205:9981/stream/channelid/1889926078?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7856_41A_1_C00000_0_0_0.png" tvg-id="ee8dc784f28b938a0b372a0b067f4607" tvg-chno="14",AXN HD
+http://192.168.1.205:9981/stream/channelid/80186862?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7888_414_1_C00000_0_0_0.png" tvg-id="9630704da20e1a7a271b2ee4e8e108f8" tvg-chno="15",TNT HD
+http://192.168.1.205:9981/stream/channelid/1299198102?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78C0_3EC_1_C00000_0_0_0.png" tvg-id="d9fc18d713dccf910a6ebf71cad1b901" tvg-chno="16",COMEDYCENTRALHD
+http://192.168.1.205:9981/stream/channelid/1461255385?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7824_428_1_C00000_0_0_0.png" tvg-id="9cdd1c1a3dfc7d161d5442222f3f650a" tvg-chno="17",CALLE 13 HD
+http://192.168.1.205:9981/stream/channelid/438099356?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78B8_3EC_1_C00000_0_0_0.png" tvg-id="e2ae0d8c4cbcd5fd4167dd82fe584436" tvg-chno="18",COSMO HD
+http://192.168.1.205:9981/stream/channelid/202223330?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7533_426_1_C00000_0_0_0.png" tvg-id="8d76d30de6fdf05dbc507304e23b15e0" tvg-chno="19",AMC HD
+http://192.168.1.205:9981/stream/channelid/231962253?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78B5_3EC_1_C00000_0_0_0.png" tvg-id="3811be2c00c06aa4bcd728c0a04237f2" tvg-chno="20",FOX LIFE HD
+http://192.168.1.205:9981/stream/channelid/750653752?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png" tvg-id="27d6cb85ceb8fbe0b7784f18f4e39822" tvg-chno="21",AXN WHITE HD
+http://192.168.1.205:9981/stream/channelid/97244711?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png" tvg-id="47df6279cd50592a7bc4e47843d71e9d" tvg-chno="22",SYFY HD
+http://192.168.1.205:9981/stream/channelid/2036522823?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_74A2_41C_1_C00000_0_0_0.png" tvg-id="4c56fd2320bdbef0d3bafa026ccf5302" tvg-chno="24",MTV ESPAÑA
+http://192.168.1.205:9981/stream/channelid/603805260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png" tvg-id="6ee289c5938379f69f1d630e6ec0ab4e" tvg-chno="25",FDF
+http://192.168.1.205:9981/stream/channelid/1166664302?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75FE_408_1_C00000_0_0_0.png" tvg-id="0ade38786cb6f5e255a81dc91ee2a722" tvg-chno="26",NEOX
+http://192.168.1.205:9981/stream/channelid/2016992778?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749F_41C_1_C00000_0_0_0.png" tvg-id="24b79fb7247992a9c01205048b068097" tvg-chno="28",ENERGY
+http://192.168.1.205:9981/stream/channelid/933213988?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png" tvg-id="ffbfa7d24224b6a8bc90d93776ecbf87" tvg-chno="30",M.ESTRENOSHD
+http://192.168.1.205:9981/stream/channelid/1386725375?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749D_41C_1_C00000_0_0_0.png" tvg-id="60b8c777a1da8c05ba60471b6021c906" tvg-chno="31",M. ESTRENOS 2 HD
+http://192.168.1.205:9981/stream/channelid/2009577568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74D8_3F8_1_C00000_0_0_0.png" tvg-id="e9ee21992b6b3a7127385c30cb0bc90b" tvg-chno="32",M. Fest
+http://192.168.1.205:9981/stream/channelid/421654249?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7509_420_1_C00000_0_0_0.png" tvg-id="27cf924f22a0348805ef37d4abcd50ef" tvg-chno="33",M. ACCIÓN HD
+http://192.168.1.205:9981/stream/channelid/1335021351?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7857_41A_1_C00000_0_0_0.png" tvg-id="132de72aa3b4a635b834ffae8ea95600" tvg-chno="34",M.COMEDIA HD
+http://192.168.1.205:9981/stream/channelid/719793427?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_750B_420_1_C00000_0_0_0.png" tvg-id="5782d97d9b44c85f6ae6a3f3c610d9f9" tvg-chno="35",M. DRAMA HD
+http://192.168.1.205:9981/stream/channelid/2111406679?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7736_416_1_C00000_0_0_0.png" tvg-id="e6701d741e2e30ef77fdbff6aeebd832" tvg-chno="36",M. Cine Español
+http://192.168.1.205:9981/stream/channelid/1948086502?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7885_414_1_C00000_0_0_0.png" tvg-id="996850f0117d7e810c4cc62c5e5313b4" tvg-chno="37",TCM HD
+http://192.168.1.205:9981/stream/channelid/1884317849?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_750C_420_1_C00000_0_0_0.png" tvg-id="73cae63b939e83643005f0fd3e9bbe85" tvg-chno="38",HOLLYWOODHD
+http://192.168.1.205:9981/stream/channelid/1004980851?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76A5_41E_1_C00000_0_0_0.png" tvg-id="40fb0b0c4562440f2d5e275ed8d0674d" tvg-chno="39",SUNDANCE TV
+http://192.168.1.205:9981/stream/channelid/202111808?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75F9_408_1_C00000_0_0_0.png" tvg-id="081740b99d424d5d2d1f2511fcee3669" tvg-chno="40",PARAMOUNT
+http://192.168.1.205:9981/stream/channelid/960501512?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_750D_420_1_C00000_0_0_0.png" tvg-id="8893d144203aebcce081870191996eb8" tvg-chno="41",DreamWorks HD
+http://192.168.1.205:9981/stream/channelid/1154585480?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_785F_41A_1_C00000_0_0_0.png" tvg-id="ed50e9ddc138ca5f6b997d104ef1e0f1" tvg-chno="42",DAZN 2 HD
+http://192.168.1.205:9981/stream/channelid/1575571693?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74D8_3F8_1_C00000_0_6_9.png" tvg-id="85b7f64cca318645725f59af62ffd2f9" tvg-chno="43",DAZN 3 HD
+http://192.168.1.205:9981/stream/channelid/1291237253?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74D6_3F8_1_C00000_0_6_9.png" tvg-id="a4d92d6d3f87efed1e4064ea55182a7d" tvg-chno="44",DAZN 4 HD
+http://192.168.1.205:9981/stream/channelid/1831721380?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74FF_420_1_C00000_0_0_0.png" tvg-id="b22fe04c5487f34ec79bed2fe916f248" tvg-chno="47",M. LaLiga 1 HD
+http://192.168.1.205:9981/stream/channelid/1289760690?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7855_41A_1_C00000_0_0_0.png" tvg-id="9d4091146377e2c22619fe0f31a1b11b" tvg-chno="48",M. LaLiga 2 HD
+http://192.168.1.205:9981/stream/channelid/345063581?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_785F_41A_1_C00000_0_0_0.png" tvg-id="7926b82e1de7d665f45e4da6af864f64" tvg-chno="49",M. LaLiga 3 HD
+http://192.168.1.205:9981/stream/channelid/783820409?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7861_41A_1_C00000_0_0_0.png" tvg-id="7abf7c9e889ca21456083c7ff562fe73" tvg-chno="51",M.LCAMPEON1
+http://192.168.1.205:9981/stream/channelid/511491962?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7864_41A_1_C00000_0_0_0.png" tvg-id="bde00b27a4a034c2541d8f0b2de22e80" tvg-chno="52",M.LCAMPEON2
+http://192.168.1.205:9981/stream/channelid/655089853?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7828_428_1_C00000_0_0_0.png" tvg-id="b97912412dbf740952fb95d09d890ff6" tvg-chno="53",M. DEPORTESHD
+http://192.168.1.205:9981/stream/channelid/1091729849?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7532_426_1_C00000_0_0_0.png" tvg-id="fd6f609b930d40392a55c48698ac0188" tvg-chno="54",M. DEPORTES1HD
+http://192.168.1.205:9981/stream/channelid/459304957?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_756D_412_1_C00000_0_0_0.png" tvg-id="969ba0d73794af57f73068a05f498b94" tvg-chno="55",M. DEPORTES2
+http://192.168.1.205:9981/stream/channelid/1470143382?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7573_412_1_C00000_0_0_0.png" tvg-id="5cfe1101ea4dba850cf861bf81e66b70" tvg-chno="56",M. DEPORTES3
+http://192.168.1.205:9981/stream/channelid/17956444?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png" tvg-id="63594a8cc1bd07786f1d91ca907f5e17" tvg-chno="59",M. GOLF HD
+http://192.168.1.205:9981/stream/channelid/206199139?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_778E_424_1_C00000_0_0_0.png" tvg-id="43af1c67019ec8ac8889a9d60b2a18eb" tvg-chno="60",#VAMOS BAR
+http://192.168.1.205:9981/stream/channelid/1729933123?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7826_428_1_C00000_0_0_0.png" tvg-id="bed168d57433dc5e3e3d3238884d3857" tvg-chno="61",EUROSPORT1HD
+http://192.168.1.205:9981/stream/channelid/1432932798?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7607_408_1_C00000_0_0_0.png" tvg-id="3ef7f9bb2f15ccd15a8d24550fc99a73" tvg-chno="62",EUROSPORT2HD
+http://192.168.1.205:9981/stream/channelid/1006237502?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png" tvg-id="bc7a8c320ad90aaa41e9019b7cab216f" tvg-chno="63",GOL
+http://192.168.1.205:9981/stream/channelid/848067260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png" tvg-id="70aa6f1845cfa97bcce56a5dabaefc05" tvg-chno="64",TELEDEPORTE
+http://192.168.1.205:9981/stream/channelid/409971312?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_788D_414_1_C00000_0_0_0.png" tvg-id="2fab19598d6ae32a5827acda8d89794d" tvg-chno="65",CAZAyPESCA HD
+http://192.168.1.205:9981/stream/channelid/1494854447?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746A_3F0_1_C00000_0_0_0.png" tvg-id="1e365a9eeb0f00f8c1a9974a01f07e91" tvg-chno="66",IBERALIA TV
+http://192.168.1.205:9981/stream/channelid/509228574?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_782D_428_1_C00000_0_0_0.png" tvg-id="ef763455c02a6a0312a287b2b983a79e" tvg-chno="67",TOROS HD
+http://192.168.1.205:9981/stream/channelid/1429501679?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7601_408_1_C00000_0_0_0.png" tvg-id="cee6f9b04c82a352fd518f39f9b82dad" tvg-chno="68",R. MADRID TV
+http://192.168.1.205:9981/stream/channelid/821683918?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_74A0_41C_1_C00000_0_0_0.png" tvg-id="1fddfa7c79838c40694d399c8443fb2f" tvg-chno="69",BARÇA TV
+http://192.168.1.205:9981/stream/channelid/2096815391?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7829_428_1_C00000_0_0_0.png" tvg-id="d7ac22bb31c5d90b9edb2feac7b0c428" tvg-chno="70",NAT GEO HD
+http://192.168.1.205:9981/stream/channelid/992128215?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7889_414_1_C00000_0_0_0.png" tvg-id="297feb46870d8d4b5060490735a0fd51" tvg-chno="71",NG WILD HD
+http://192.168.1.205:9981/stream/channelid/1189838633?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7731_416_1_C00000_0_0_0.png" tvg-id="bee8b9598db50ac8e3b2fbc67118cda7" tvg-chno="72",HISTORIA
+http://192.168.1.205:9981/stream/channelid/1505355966?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_772F_416_1_C00000_0_0_0.png" tvg-id="f33150577abe09775bcac6dc6761575c" tvg-chno="73",DISCOVERY
+http://192.168.1.205:9981/stream/channelid/1464873459?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_778A_424_1_C00000_0_0_0.png" tvg-id="b09d3492c6acc2216ed2b6b259a15dc3" tvg-chno="74",CANAL ODISEA
+http://192.168.1.205:9981/stream/channelid/305438128?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-id="e38ff5d8d08a7a79731aea31d2649f59" tvg-chno="75",BLAZE
+http://192.168.1.205:9981/stream/channelid/1492488163?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_74D3_3F8_1_C00000_0_0_0.png" tvg-id="eea4c68558950d95c0389b370ae93ad5" tvg-chno="76",VIAJAR HD
+http://192.168.1.205:9981/stream/channelid/96904430?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7732_416_1_C00000_0_0_0.png" tvg-id="a36c1b210f23921bba89ca1319a1b3cc" tvg-chno="78",CRIMEN+INVES
+http://192.168.1.205:9981/stream/channelid/555445411?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png" tvg-id="c7bf999cd5895cd7491f3a52f3bc338d" tvg-chno="80",CANAL COCINA
+http://192.168.1.205:9981/stream/channelid/479838151?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7795_424_1_C00000_0_0_0.png" tvg-id="12131934a2abea9ecc86b91450504455" tvg-chno="81",CANAL DECASA
+http://192.168.1.205:9981/stream/channelid/874058514?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749A_41C_1_C00000_0_0_0.png" tvg-id="4660810da8db710b6106a4eddf047caf" tvg-chno="83",DIVINITY
+http://192.168.1.205:9981/stream/channelid/226582598?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png" tvg-id="331e3615ba58db29d6b8903d0b516b81" tvg-chno="84",NOVA
+http://192.168.1.205:9981/stream/channelid/355868211?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7600_408_1_C00000_0_0_0.png" tvg-id="2958103682853eefd86d69534dc30663" tvg-chno="86",BE MAD
+http://192.168.1.205:9981/stream/channelid/907040809?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749C_41C_1_C00000_0_0_0.png" tvg-id="84c29e0425f7878a52c0cca5f19bf901" tvg-chno="90",BABY TV
+http://192.168.1.205:9981/stream/channelid/77513348?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png" tvg-id="d5d75efc92347fd42e13103030e91f32" tvg-chno="91",DISNEY JR
+http://192.168.1.205:9981/stream/channelid/2086590421?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75FF_408_1_C00000_0_0_0.png" tvg-id="6cea1ac4fbca6a1a4db1f58d0287d9fa" tvg-chno="92",CANAL PANDA
+http://192.168.1.205:9981/stream/channelid/1142614636?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7697_41E_1_C00000_0_0_0.png" tvg-id="dbee2433ddad5d2892a6f5bf793a909f" tvg-chno="93",NICK JR
+http://192.168.1.205:9981/stream/channelid/858058459?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7820_428_1_C00000_0_0_0.png" tvg-id="4d08878f47590862e6a3d702fa3d80dd" tvg-chno="94",NICKELODEONHD
+http://192.168.1.205:9981/stream/channelid/260507725?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_788B_414_1_C00000_0_0_0.png" tvg-id="8ffc18463dc525f7b8385890f41ee691" tvg-chno="96",DISNEY CH HD
+http://192.168.1.205:9981/stream/channelid/1176042639?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749E_41C_1_C00000_0_0_0.png" tvg-id="389e02363b525a87e91047f403db1cdc" tvg-chno="97",BOING
+http://192.168.1.205:9981/stream/channelid/906141240?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77BE_40A_1_C00000_0_0_0.png" tvg-id="ca6f978ac81c48c5a6795b99ffd9b8b4" tvg-chno="98",CLAN TVE
+http://192.168.1.205:9981/stream/channelid/177696714?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png" tvg-id="00c81d4020da23df3933846a6a187115" tvg-chno="105",VH1
+http://192.168.1.205:9981/stream/channelid/1075693568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7699_41E_1_C00000_0_0_0.png" tvg-id="7413db0db8035d4e36e44423bdfd9263" tvg-chno="107",MEZZO
+http://192.168.1.205:9981/stream/channelid/232461172?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7823_428_1_C00000_0_0_0.png" tvg-id="91c41f3a2cd316dd05845f7455f1022e" tvg-chno="108",MEZZO LIVE HD
+http://192.168.1.205:9981/stream/channelid/975160465?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7602_408_1_C00000_0_0_0.png" tvg-id="087234541a006f80a1a66450969431d2" tvg-chno="109",CLASSICA
+http://192.168.1.205:9981/stream/channelid/1412723208?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_778B_424_1_C00000_0_0_0.png" tvg-id="d625a5727e1bec234909c8904e9be718" tvg-chno="111",PLAYBOY TV
+http://192.168.1.205:9981/stream/channelid/1923425750?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7738_416_1_C00000_0_0_0.png" tvg-id="5586b667932695d40648059f8e0c8132" tvg-chno="112",24 HORAS
+http://192.168.1.205:9981/stream/channelid/1740015189?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_1389_3EA_1_C00000_0_0_0.png" tvg-id="400188ce2854cd2e03f2587e3c9f0157" tvg-chno="113",BBC World News Europe HD
+http://192.168.1.205:9981/stream/channelid/1317536064?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-id="c6219022faf2fe5e001dcef6ee3d50c8" tvg-chno="114",CNN Int.
+http://192.168.1.205:9981/stream/channelid/579871174?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_749B_41C_1_C00000_0_0_0.png" tvg-id="25441749cbca9e8244d0ee18dcee2bc5" tvg-chno="115",FOX NEWS
+http://192.168.1.205:9981/stream/channelid/1226261541?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_79F4_443_1_C00000_0_0_0.png" tvg-id="c2242b009852b240c55fc1c49f7e7229" tvg-chno="116",EURONEWS FRENCH SD
+http://192.168.1.205:9981/stream/channelid/2827458?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1158_404_1_C00000_0_0_0.png" tvg-id="345048490f560f411b9cd0a5a6363429" tvg-chno="117",Al Jazeera English
+http://192.168.1.205:9981/stream/channelid/1229475892?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1AFA_3FE_1_C00000_0_0_0.png" tvg-id="46380e58206847e683c2f78f0c28f1f9" tvg-chno="118",France 24 (in English)
+http://192.168.1.205:9981/stream/channelid/1477326918?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_18EE_3F4_1_C00000_0_0_0.png" tvg-id="5cc9a07331a30004b6aa831a3f2c1c8f" tvg-chno="119",RT Esp HD
+http://192.168.1.205:9981/stream/channelid/1939917148?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_272E_402_1_C00000_0_0_0.png" tvg-id="f48750e9fede2468e85a074c4fa9222b" tvg-chno="120",CNBC Europe
+http://192.168.1.205:9981/stream/channelid/1766885364?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1B03_3FE_1_C00000_0_0_0.png" tvg-id="2396b383f08fb436c628c5f776b8f146" tvg-chno="122",TV5MONDE EUROPE
+http://192.168.1.205:9981/stream/channelid/62101027?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_2753_402_1_C00000_0_0_0.png" tvg-id="e01dc661f61f9543a89ab11ff301fbff" tvg-chno="123",Bloomberg Europe TV
+http://192.168.1.205:9981/stream/channelid/1640373728?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1C7A_457_1_C00000_0_0_0.png" tvg-id="e433bf8f86f4b18f90adb24985d5c97b" tvg-chno="124",Sky News Intl
+http://192.168.1.205:9981/stream/channelid/264188900?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1B65_3FC_1_C00000_0_0_0.png" tvg-id="db4d867f6446d292d69c61f8ce1aa181" tvg-chno="125",RT Esp
+http://192.168.1.205:9981/stream/channelid/2139508187?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_18EF_3F4_1_C00000_0_0_0.png" tvg-id="12533c4a70403f2714762ab24741e39b" tvg-chno="126",RT France HD
+http://192.168.1.205:9981/stream/channelid/1245467410?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1AF9_3FE_1_C00000_0_0_0.png" tvg-id="db1271521055dae39649bc3399d8efab" tvg-chno="129",France 24 (en Français)
+http://192.168.1.205:9981/stream/channelid/1383142107?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1AFE_3FE_1_C00000_0_0_0.png" tvg-id="56de8175dad6c13992ec80934452ff81" tvg-chno="130",France 24 (in Arabic)
+http://192.168.1.205:9981/stream/channelid/1971445334?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7A45_410_1_C00000_0_0_0.png" tvg-id="743c15ea40ebf71fd59385a13295206e" tvg-chno="137",TV Record SD
+http://192.168.1.205:9981/stream/channelid/1779776628?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1B60_3FC_1_C00000_0_0_0.png" tvg-id="b5a81f17524da001303ad8f944d7c3a6" tvg-chno="141",Cubavision Internacional
+http://192.168.1.205:9981/stream/channelid/387950773?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7A48_410_1_C00000_0_0_0.png" tvg-id="d2403aa18195e0c885f4651a0bffb2ec" tvg-chno="142",TELESUR HD
+http://192.168.1.205:9981/stream/channelid/557465810?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_139D_3EA_1_C00000_0_0_0.png" tvg-id="072ee8739bfae989417de90c2dd63f28" tvg-chno="143",NHK WORLD-JPN
+http://192.168.1.205:9981/stream/channelid/1944595975?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1B63_3FC_1_C00000_0_0_0.png" tvg-id="946ad36d3747fab1cb18541494806966" tvg-chno="144",Arirang TV
+http://192.168.1.205:9981/stream/channelid/1842571924?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7859_41A_1_C00000_0_0_0.png" tvg-id="e217ba65b8158cb10b8ec87169c42e35" tvg-chno="145",LALIGATV BAR
+http://192.168.1.205:9981/stream/channelid/1706694626?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769A_41E_1_C00000_0_0_0.png" tvg-id="e009f57fc9213c074445aef89e7c702e" tvg-chno="146",LALIGATVBAR1
+http://192.168.1.205:9981/stream/channelid/2146765280?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7582_412_1_C00000_0_0_0.png" tvg-id="a8b857752560fc071fe4d2b43558e04b" tvg-chno="147",LALIGATVBAR2
+http://192.168.1.205:9981/stream/channelid/1968683176?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7574_412_1_C00000_0_0_0.png" tvg-id="239dad4916af814889ee13a44bc02bd5" tvg-chno="148",LALIGATVBAR3
+http://192.168.1.205:9981/stream/channelid/1236114723?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76A6_41E_1_C00000_0_0_0.png" tvg-id="be40786dbff41488cc849660a4734196" tvg-chno="148",LALIGATVBAR4
+http://192.168.1.205:9981/stream/channelid/1836597438?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7729_416_1_C00000_0_0_0.png" tvg-id="3621b72392a9739f4f3fcec29a51d2e8" tvg-chno="150",CANAL SUR A.
+http://192.168.1.205:9981/stream/channelid/599204150?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_18F1_3F4_1_C00000_0_0_0.png" tvg-id="9fc9fab3b766c2ba87fe578fe975e61f" tvg-chno="151",TVGA HD EUROPA
+http://192.168.1.205:9981/stream/channelid/872073631?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_18F0_3F4_1_C00000_0_0_0.png" tvg-id="0055bc85e964bb526311e46f3166ab73" tvg-chno="152",EXTREMADURA SAT
+http://192.168.1.205:9981/stream/channelid/96228608?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75FD_408_1_C00000_0_0_0.png" tvg-id="c3781d4e2f34f24237b0a95178df9b8d" tvg-chno="155",ARAGON TV INT
+http://192.168.1.205:9981/stream/channelid/1310554307?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7A49_410_1_C00000_0_0_0.png" tvg-id="c0cf2051ad95f482fcfd9f0ed128882f" tvg-chno="157",TBN Espana
+http://192.168.1.205:9981/stream/channelid/1361104832?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_2760_402_1_C00000_0_0_0.png" tvg-id="dff41d4a817073d000d03323ac52c8bd" tvg-chno="158",Sonlife Broadcasting Network
+http://192.168.1.205:9981/stream/channelid/1243477215?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75B0_422_1_C00000_0_0_0.png" tvg-id="9503e0dffb533403124767a9edc861a7" tvg-chno="159",ALQUILER
+http://192.168.1.205:9981/stream/channelid/1608516501?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7854_41A_1_C00000_0_0_0.png" tvg-id="b27f0dc91fc0ec8633c1f3c14c8b569c" tvg-chno="166",ALQUILER HD
+http://192.168.1.205:9981/stream/channelid/1225621426?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_760E_408_1_C00000_0_0_0.png" tvg-id="c139fbfddc99c801cebcd185af851bce" tvg-chno="175",EUROSPORT 2
+http://192.168.1.205:9981/stream/channelid/2113616321?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769B_41E_1_C00000_0_0_0.png" tvg-id="21d5f3742d7022f12539db1c7369d336" tvg-chno="176",M. LaLiga 4
+http://192.168.1.205:9981/stream/channelid/1962136865?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7579_412_1_C00000_0_0_0.png" tvg-id="c4f7feb5c95e8c82f1811088759cb579" tvg-chno="177",M. LaLiga 5
+http://192.168.1.205:9981/stream/channelid/905902020?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757E_412_1_C00000_0_0_0.png" tvg-id="e18ba1b4d9104e25f3ad0b1e2798529a" tvg-chno="178",M. LaLiga 6
+http://192.168.1.205:9981/stream/channelid/883002337?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_756E_412_1_C00000_0_0_0.png" tvg-id="a83869d9111b4d6050e17671a49c00e0" tvg-chno="179",M. LaLiga 7
+http://192.168.1.205:9981/stream/channelid/1500068008?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7690_41E_1_C00000_0_0_0.png" tvg-id="1dcb2c5ade5d3f3e3cb52c8ef176439c" tvg-chno="180",M. LaLiga 8
+http://192.168.1.205:9981/stream/channelid/1512885021?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7581_412_1_C00000_0_0_0.png" tvg-id="5328f0eeb3dcfe9e12644f43e04ec8e0" tvg-chno="181",M. LaLiga 9
+http://192.168.1.205:9981/stream/channelid/1861232723?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7578_412_1_C00000_0_0_0.png" tvg-id="41361663f887b3fb967972b0fc6b33b1" tvg-chno="182",M. LaLiga 10
+http://192.168.1.205:9981/stream/channelid/1662400065?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757F_412_1_C00000_0_0_0.png" tvg-id="57d2013d068494e12fa21ad938a05943" tvg-chno="186",M.LCAMPEON3
+http://192.168.1.205:9981/stream/channelid/1023529559?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769D_41E_1_C00000_0_0_0.png" tvg-id="184e8075475516efc3e67af1cd1c9d84" tvg-chno="187",M.LCAMPEON4
+http://192.168.1.205:9981/stream/channelid/1971342872?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757D_412_1_C00000_0_0_0.png" tvg-id="565e92ed56935471a064962b5770d107" tvg-chno="188",M.LCAMPEON5
+http://192.168.1.205:9981/stream/channelid/1838308950?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757C_412_1_C00000_0_0_0.png" tvg-id="3877bf059dbb6919a60df6d3b3a84aa4" tvg-chno="189",M.LCAMPEON6
+http://192.168.1.205:9981/stream/channelid/96433976?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7583_412_1_C00000_0_0_0.png" tvg-id="e719703429a078c0ff19fe64a6718916" tvg-chno="190",M.LCAMPEON7
+http://192.168.1.205:9981/stream/channelid/879761895?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7576_412_1_C00000_0_0_0.png" tvg-id="c073c0330645d758b4246e3019b60b6a" tvg-chno="191",M.LCAMPEON8
+http://192.168.1.205:9981/stream/channelid/868250560?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7575_412_1_C00000_0_0_0.png" tvg-id="c64839d3077da3d1e52fcb584bf11bfe" tvg-chno="192",M. DEPORTES4
+http://192.168.1.205:9981/stream/channelid/1396263110?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7577_412_1_C00000_0_0_0.png" tvg-id="783d003636c8dd9cfc85c895586cadb0" tvg-chno="193",M. DEPORTES5
+http://192.168.1.205:9981/stream/channelid/905985400?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769E_41E_1_C00000_0_0_0.png" tvg-id="b0990cd4aa0543d21f9e214271d7dd2e" tvg-chno="194",M. DEPORTES6
+http://192.168.1.205:9981/stream/channelid/1410111920?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7693_41E_1_C00000_0_0_0.png" tvg-id="f5e1a69ccf491d8453af70efa9be73fd" tvg-chno="195",M. DEPORTES7
+http://192.168.1.205:9981/stream/channelid/480698869?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_756C_412_1_C00000_0_0_0.png" tvg-id="8b0f864268fcdbfe2f032d1880e71b73" tvg-chno="196",#VAMOS BAR1
+http://192.168.1.205:9981/stream/channelid/1116082059?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7584_412_1_C00000_0_0_0.png" tvg-id="158a9c5ad4d01b6a9ffc306c08b83852" tvg-chno="197",#VAMOS BAR2
+http://192.168.1.205:9981/stream/channelid/1520208405?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75C6_422_1_C00000_0_0_0.png" tvg-id="7e27b0a69158900d9d0bd8ac6fce19f9" tvg-chno="199",PORTADA
+http://192.168.1.205:9981/stream/channelid/649078654?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75A9_422_1_C00000_0_0_0.png" tvg-id="ec2a26ebd89bdea8cb7c92a398f16f67" tvg-chno="202",GU
+http://192.168.1.205:9981/stream/channelid/1797663468?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_1_40B_1_C00000_0_0_0.png" tvg-id="17766b3d2280a1b0ba9a36f65a7bc2df" tvg-chno="254",SES UHD Demo Channel
+http://192.168.1.205:9981/stream/channelid/1030452759?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_16_FE0_451_35_C00000_0_0_0.png" tvg-id="06e09a817dab3bdd8b617f01360d88ae" tvg-chno="264",Vivid
+http://192.168.1.205:9981/stream/channelid/26927110?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_16_1009_451_35_C00000_0_0_0.png" tvg-id="cca32197324c8890d806a6c0f4b2c639" tvg-chno="368",Brazzers TV
+http://192.168.1.205:9981/stream/channelid/388080588?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_16_1031_451_35_C00000_0_0_0.png" tvg-id="a44ad8a68a29410ead40b56ab10b9e3c" tvg-chno="369",Brazzers TV CZ
+http://192.168.1.205:9981/stream/channelid/651709092?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C0_40A_1_C00000_0_0_0.png" tvg-id="c68830a1a5f215ab68ae44ca099bf64f" tvg-chno="400",LA 1
+http://192.168.1.205:9981/stream/channelid/556828870?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png" tvg-id="a5cd84671447c7e4112d2f98bf8458a9" tvg-chno="400",LA 2
+http://192.168.1.205:9981/stream/channelid/1736756645?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7604_408_1_C00000_0_0_0.png" tvg-id="99d35bb1410be3aa573cfec57bb7b367" tvg-chno="401",ANTENA 3
+http://192.168.1.205:9981/stream/channelid/828101529?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C7_40A_1_C00000_0_0_0.png" tvg-id="74f22fe58d48631065edde735c258e92" tvg-chno="402",CUATRO
+http://192.168.1.205:9981/stream/channelid/1697641076?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C3_40A_1_C00000_0_0_0.png" tvg-id="a4905175629c277701dd7b025ffc7421" tvg-chno="403",TELECINCO
+http://192.168.1.205:9981/stream/channelid/1968279716?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png" tvg-id="a3f5e17dba3a0945901b99f575efae1c" tvg-chno="404",LA SEXTA
+http://192.168.1.205:9981/stream/channelid/2111960483?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7478_3F0_1_C00000_0_0_0.png" tvg-id="914620c8a8bef6b082e9da32e7f7dbe7" tvg-chno="405",#0
+http://192.168.1.205:9981/stream/channelid/1210074769?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76CA_40E_1_C00000_0_0_0.png" tvg-id="50af6d3c36219db963a3a2b3e661ea7a" tvg-chno="406",M. SERIES
+http://192.168.1.205:9981/stream/channelid/1013821264?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7696_41E_1_C00000_0_0_0.png" tvg-id="804ac6b30a77bfa83fddf2c0fa0c3002" tvg-chno="407",M. SERIES 2
+http://192.168.1.205:9981/stream/channelid/868633216?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746F_3F0_1_C00000_0_0_0.png" tvg-id="e4ea8d01c63ee567c0864f29b0cbe18b" tvg-chno="408",FOX
+http://192.168.1.205:9981/stream/channelid/26077924?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7477_3F0_1_C00000_0_0_0.png" tvg-id="720da2c7c3710dd58ffabe8f100cfc68" tvg-chno="409",AXN
+http://192.168.1.205:9981/stream/channelid/1201802610?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C9_40A_1_C00000_0_0_0.png" tvg-id="02af084915c63a36ffcca41c7db4dc62" tvg-chno="410",TNT
+http://192.168.1.205:9981/stream/channelid/1225305858?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76C8_40E_1_C00000_0_0_0.png" tvg-id="eff00cac26ee38f8b2012e8ab34f6122" tvg-chno="411",COMEDY CENTRAL
+http://192.168.1.205:9981/stream/channelid/739045615?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7790_424_1_C00000_0_0_0.png" tvg-id="573bc42828f44e374fda6d2c8c351c77" tvg-chno="412",CALLE 13
+http://192.168.1.205:9981/stream/channelid/683948887?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7730_416_1_C00000_0_0_0.png" tvg-id="17b7abacf9844fec2c2e0ecebebbe502" tvg-chno="413",COSMO
+http://192.168.1.205:9981/stream/channelid/749451031?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7468_3F0_1_C00000_0_0_0.png" tvg-id="62118af0fbc66e3c19ed75aecb007999" tvg-chno="414",FOX LIFE
+http://192.168.1.205:9981/stream/channelid/1888096610?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7471_3F0_1_C00000_0_0_0.png" tvg-id="6a48171191b5b36170acf95fe3022366" tvg-chno="415",AXN WHITE
+http://192.168.1.205:9981/stream/channelid/286738538?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7796_424_1_C00000_0_0_0.png" tvg-id="57cb4fe72b9a112df08f93bfa83f664c" tvg-chno="416",SYFY
+http://192.168.1.205:9981/stream/channelid/1733282647?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76C0_40E_1_C00000_0_0_0.png" tvg-id="16685bfcb7b36c6a54f256f6a8148d47" tvg-chno="417",M. ESTRENOS
+http://192.168.1.205:9981/stream/channelid/2086365206?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1419_403_1_C00000_0_0_0.png" tvg-id="feba0f8693265133677ad8cd27d03bcd" tvg-chno="417",M. ESTRENOS 2
+http://192.168.1.205:9981/stream/channelid/101694206?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C6_40A_1_C00000_0_0_0.png" tvg-id="faaa5c5adaee5e67cd87ee615f2b2e08" tvg-chno="418",M. Fest
+http://192.168.1.205:9981/stream/channelid/1516022522?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746C_3F0_1_C00000_0_0_0.png" tvg-id="2d4dd58c117aee5b6fa9d5e67b216eef" tvg-chno="419",M. ACCIÓN
+http://192.168.1.205:9981/stream/channelid/215305517?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746D_3F0_1_C00000_0_0_0.png" tvg-id="b7ab8e53e5576835ba6aa3d213ef03cc" tvg-chno="420",M. COMEDIA
+http://192.168.1.205:9981/stream/channelid/1401858999?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_746E_3F0_1_C00000_0_0_0.png" tvg-id="7c01a550f353596c43eaaffc95f81a15" tvg-chno="421",M. DRAMA
+http://192.168.1.205:9981/stream/channelid/1352991100?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76C7_40E_1_C00000_0_0_0.png" tvg-id="652c988b22b86c430a07b90f0c46f091" tvg-chno="422",TCM
+http://192.168.1.205:9981/stream/channelid/194522213?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C1_40A_1_C00000_0_0_0.png" tvg-id="6e66491d272dc8fad941e19bf7d7adf1" tvg-chno="423",HOLLYWOOD
+http://192.168.1.205:9981/stream/channelid/491349614?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_7D5_449_1_C00000_0_0_0.png" tvg-id="b7a26652594109a604dbaf73aefd75ac" tvg-chno="424",INSIGHT UHD Russia
+http://192.168.1.205:9981/stream/channelid/1382458039?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_778F_424_1_C00000_0_0_0.png" tvg-id="3d0b74cc4d80c4aa72e885d99b8ff77c" tvg-chno="427",M. DEPORTES
+http://192.168.1.205:9981/stream/channelid/1282673469?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7739_416_1_C00000_0_0_0.png" tvg-id="fc63f093135e20c16ad7afdd0beca40c" tvg-chno="427",M. DEPORTES1
+http://192.168.1.205:9981/stream/channelid/334521340?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7606_408_1_C00000_0_0_0.png" tvg-id="6536af8b3826359097884e2ce8423318" tvg-chno="428",#VAMOS
+http://192.168.1.205:9981/stream/channelid/196032101?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_74A4_41C_1_C00000_0_0_0.png" tvg-id="b840d8e7c53bd8f7e7c3abe9a9a2a05f" tvg-chno="429",M.FORMULA 1
+http://192.168.1.205:9981/stream/channelid/1742225592?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7789_424_1_C00000_0_0_0.png" tvg-id="d69b897476a0b0ce9457917a1b96b0e2" tvg-chno="431",M. GOLF
+http://192.168.1.205:9981/stream/channelid/1955175382?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7570_412_1_C00000_0_0_0.png" tvg-id="6f5ca44ec5e5538774935c796db8c56e" tvg-chno="432",TOROS
+http://192.168.1.205:9981/stream/channelid/1319394415?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_778D_424_1_C00000_0_0_0.png" tvg-id="7c487963ef9af6c40590c25c3687c345" tvg-chno="433",NAT GEOGRAPH
+http://192.168.1.205:9981/stream/channelid/1668892796?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77D8_40A_1_C00000_0_0_0.png" tvg-id="0b7d7cdf6172cf610946c7d936e4d79a" tvg-chno="434",NAT GEO WILD
+http://192.168.1.205:9981/stream/channelid/1601993995?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76C9_40E_1_C00000_0_0_0.png" tvg-id="a574e2fcf109d22a45d9fef36215eaa0" tvg-chno="435",VIAJAR
+http://192.168.1.205:9981/stream/channelid/2095215781?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_772E_416_1_C00000_0_0_0.png" tvg-id="ffbb8afb6a060a219c52d871f51d6ad2" tvg-chno="436",NICKELODEON
+http://192.168.1.205:9981/stream/channelid/2072689663?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76C3_40E_1_C00000_0_0_0.png" tvg-id="b795735e1114b48690a8e6e903eab53f" tvg-chno="437",DISNEY CH.
+http://192.168.1.205:9981/stream/channelid/1584633271?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76CF_40E_1_C00000_0_0_0.png" tvg-id="a4b40b3054aeb8d1fb3c99c20b94a3b8" tvg-chno="439",AMC
+http://192.168.1.205:9981/stream/channelid/806073508?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7797_424_1_C00000_0_0_0.png" tvg-id="e3e22862e074976aff40cfa49cd5ae35" tvg-chno="440",M. LaLiga
+http://192.168.1.205:9981/stream/channelid/1646846691?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_756B_412_1_C00000_0_0_0.png" tvg-id="c84b2c46fd28b490661018f29957eecd" tvg-chno="441",M. LaLiga 1
+http://192.168.1.205:9981/stream/channelid/1177308104?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7580_412_1_C00000_0_0_0.png" tvg-id="eccbdc93b42d996675db1cf58627c945" tvg-chno="442",M. LaLiga 2
+http://192.168.1.205:9981/stream/channelid/333237228?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769C_41E_1_C00000_0_0_0.png" tvg-id="f303230facbb8df11720ef700ef40c84" tvg-chno="443",M. LaLiga 3
+http://192.168.1.205:9981/stream/channelid/253953011?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757B_412_1_C00000_0_0_0.png" tvg-id="0034d1e32239c20efdb725b90fccb264" tvg-chno="444",M.LCAMPEONES
+http://192.168.1.205:9981/stream/channelid/1674654720?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_757A_412_1_C00000_0_0_0.png" tvg-id="19327373df26ae05517969c0f98e5f2e" tvg-chno="445",M.LCAMPEON1
+http://192.168.1.205:9981/stream/channelid/1936929305?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_769F_41E_1_C00000_0_0_0.png" tvg-id="2fa5ba02a7507dec5b3b0436689d9277" tvg-chno="446",M.LCAMPEON2
+http://192.168.1.205:9981/stream/channelid/45786415?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_74A1_41C_1_C00000_0_0_0.png" tvg-id="7483fef66a6ae4ce8e28fa5724d206b6" tvg-chno="447",EUROSPORT 1
+http://192.168.1.205:9981/stream/channelid/1996391284?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_772B_416_1_C00000_0_0_0.png" tvg-id="41c17db04613cd210fa3332f5fbc7bf3" tvg-chno="448",CAZA Y PESCA
+http://192.168.1.205:9981/stream/channelid/813547841?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7859_41A_1_C00000_0_0_0.png" tvg-id="74fea637322ba8789eaf622e39807cee" tvg-chno="449",LALIGATV BAR
+http://192.168.1.205:9981/stream/channelid/933690996?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_76A4_41E_1_C00000_0_0_0.png" tvg-id="8391fd021a1c0be6e25e2a3b95c4f051" tvg-chno="450",DAZN 1
+http://192.168.1.205:9981/stream/channelid/50172291?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_772A_416_1_C00000_0_0_0.png" tvg-id="6e349f12f64d777f2b34bd14525dd82a" tvg-chno="451",DAZN 2
+http://192.168.1.205:9981/stream/channelid/312423534?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77BE_40A_1_C00000_0_6_9.png" tvg-id="ae70b23b51a25a446df34285ac6b612e" tvg-chno="452",DAZN 3
+http://192.168.1.205:9981/stream/channelid/1001549998?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C0_40A_1_C00000_0_6_9.png" tvg-id="6d2f8c08c60822fe85614d5b9ec5e5d8" tvg-chno="453",DAZN 4
+http://192.168.1.205:9981/stream/channelid/143404909?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_77C7_40A_1_C00000_0_6_9.png" tvg-id="4fe55fdff124f23fa1249b892285e718" tvg-chno="454",DreamWorks
+http://192.168.1.205:9981/stream/channelid/1600120143?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75D9_422_1_C00000_0_0_0.png" tvg-id="f598a9d42b1c0d1e0511a64f63012f8f" tvg-chno="459",CONTRATO
+http://192.168.1.205:9981/stream/channelid/1420400885?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_75F6_422_1_C00000_0_0_0.png" tvg-id="26001ec3b8a58a5b7472d7b082713770" tvg-chno="472",GU FIL
+http://192.168.1.205:9981/stream/channelid/1126039590?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_6C_C_85_C00000_0_0_0.png" tvg-id="287390fbab6ad4665a51b540ef527366" tvg-chno="545",Sky Sport News HD
+http://192.168.1.205:9981/stream/channelid/2073064232?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_229_10_85_C00000_0_0_0.png" tvg-id="854ac58033441a0002f975392920d6fc" tvg-chno="546",Sky Sport UHD
+http://192.168.1.205:9981/stream/channelid/12929669?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_228_10_85_C00000_0_0_0.png" tvg-id="090f31e58713a3fc18d4c8c2c997a1fc" tvg-chno="547",Sky Sport Bundesliga UHD
+http://192.168.1.205:9981/stream/channelid/1697713929?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_69_C_85_C00000_0_0_0.png" tvg-id="d3865e562a6704d6e5c9180d1751c491" tvg-chno="548",Sky Bundesliga HD 1 
+http://192.168.1.205:9981/stream/channelid/1449035475?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_10B_6_85_C00000_0_0_0.png" tvg-id="b77b3f7dc5449e2948c49cd1bd8ba2ae" tvg-chno="549",Sky Bundesliga HD 2
+http://192.168.1.205:9981/stream/channelid/2101312439?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_115_D_85_C00000_0_0_0.png" tvg-id="a3d59101b20225d3f04bb7b95ad9b38e" tvg-chno="550",Sky Bundesliga HD 3
+http://192.168.1.205:9981/stream/channelid/26334627?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_11F_C_85_C00000_0_0_0.png" tvg-id="c7256f475d940b61f6327a6aff318ad2" tvg-chno="551",Sky Bundesliga HD 4
+http://192.168.1.205:9981/stream/channelid/1198466503?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_129_9_85_C00000_0_0_0.png" tvg-id="2599ceca847fd471aa71dcf4b73d9385" tvg-chno="552",Sky Sport Bundesliga 5 HD
+http://192.168.1.205:9981/stream/channelid/1255053605?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_133_4_85_C00000_0_0_0.png" tvg-id="45944590ebf1d7712ccef3b308c14ef8" tvg-chno="553",Sky Sport Bundesliga 6 HD
+http://192.168.1.205:9981/stream/channelid/272995397?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_13D_2_85_C00000_0_0_0.png" tvg-id="5fcef784b2e1c25eafbc0e7f68d6366d" tvg-chno="554",Sky Sport Bundesliga 7 HD
+http://192.168.1.205:9981/stream/channelid/83349087?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_147_6_85_C00000_0_0_0.png" tvg-id="fb830490ee488b5c60ec7115ef0be97d" tvg-chno="555",Sky Sport Bundesliga 8 HD
+http://192.168.1.205:9981/stream/channelid/268731387?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_151_10_85_C00000_0_0_0.png" tvg-id="aebf5736d3dab418012a3dd482c80f54" tvg-chno="556",Sky Sport Bundesliga 9 HD
+http://192.168.1.205:9981/stream/channelid/911720366?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_101_B_85_C00000_0_0_0.png" tvg-id="72ebe48342ce205a1ba1ba4a6f86f841" tvg-chno="557",Sky Sport Bundesliga 10 HD
+http://192.168.1.205:9981/stream/channelid/65334130?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_81_6_85_C00000_0_0_0.png" tvg-id="7b756348e23edcbe795d20daf89182cf" tvg-chno="558",Sky Sport HD 1 
+http://192.168.1.205:9981/stream/channelid/1214477691?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_72_D_85_C00000_0_0_0.png" tvg-id="cd2a7e6252c905d43de87230c92cc883" tvg-chno="559",Sky Sport HD 2 
+http://192.168.1.205:9981/stream/channelid/1652435661?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_10C_6_85_C00000_0_0_0.png" tvg-id="55263a4947139b818f11d83c401dae91" tvg-chno="560",Sky Sport 3 HD
+http://192.168.1.205:9981/stream/channelid/1228547669?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_116_D_85_C00000_0_0_0.png" tvg-id="6fd9199835204dafbff1a6f8ee0bbe90" tvg-chno="561",Sky Sport 4 HD
+http://192.168.1.205:9981/stream/channelid/404347247?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_120_C_85_C00000_0_0_0.png" tvg-id="5a7f6fdb2fcdab41baa9e5861d1312a6" tvg-chno="562",Sky Sport 5 HD
+http://192.168.1.205:9981/stream/channelid/1534033754?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_12A_9_85_C00000_0_0_0.png" tvg-id="c43071a07c07392e7c47b4a7bf569da1" tvg-chno="563",Sky Sport 6 HD
+http://192.168.1.205:9981/stream/channelid/544288964?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_134_4_85_C00000_0_0_0.png" tvg-id="82a886762f1f9e7975aa703c6c2b2020" tvg-chno="564",Sky Sport 7 HD
+http://192.168.1.205:9981/stream/channelid/1988536450?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_13E_2_85_C00000_0_0_0.png" tvg-id="b11f66b0ef41c1a31cd29e5f8452b50a" tvg-chno="565",Sky Sport 8 HD
+http://192.168.1.205:9981/stream/channelid/811999153?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_148_6_85_C00000_0_0_0.png" tvg-id="bc2e5baafb19e7ae034200a4c97fede4" tvg-chno="566",Sky Sport 9 HD
+http://192.168.1.205:9981/stream/channelid/710618812?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_152_10_85_C00000_0_0_0.png" tvg-id="d75af7e6641541eb811778052218cd1e" tvg-chno="567",Sky Sport 10 HD
+http://192.168.1.205:9981/stream/channelid/1727486679?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_102_B_85_C00000_0_0_0.png" tvg-id="58bcb905a86f91d4c2e875d0b21dd03e" tvg-chno="568",Sky Sport 11 HD
+http://192.168.1.205:9981/stream/channelid/96058456?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_8F_9_85_C00000_0_0_0.png" tvg-id="d677d1fe15f3426eadd0936cb5d8cba7" tvg-chno="569",Sky Sport Austria 1 HD
+http://192.168.1.205:9981/stream/channelid/2127656918?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_30D6_413_1_C00000_0_0_0.png" tvg-id="5561314930815e503a35c270b62eb7f0" tvg-chno="570",Eurosport 1 HD
+http://192.168.1.205:9981/stream/channelid/1227972949?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_6D_B_85_C00000_0_0_0.png" tvg-id="eca0608801a1ed6cbf0dc18886b4646f" tvg-chno="571",Eurosport 2 HD
+http://192.168.1.205:9981/stream/channelid/140550380?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_10E_6_85_C00000_0_0_0.png" tvg-id="410b9a776cb3827efbe06647fe18a854" tvg-chno="572",Eurosport360HD 1
+http://192.168.1.205:9981/stream/channelid/2006584129?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_118_D_85_C00000_0_0_0.png" tvg-id="da7e1a9e2a8acdc31f7a5479e34d1aff" tvg-chno="573",Eurosport360HD 2
+http://192.168.1.205:9981/stream/channelid/505052890?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_122_C_85_C00000_0_0_0.png" tvg-id="bfedc5d2d8c27999b9c6b4730632291b" tvg-chno="574",Eurosport360HD 3
+http://192.168.1.205:9981/stream/channelid/1388703167?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_12C_9_85_C00000_0_0_0.png" tvg-id="65df76faf88040ddab5bbedb4759fd10" tvg-chno="575",Eurosport360HD 4
+http://192.168.1.205:9981/stream/channelid/2054610789?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_136_4_85_C00000_0_0_0.png" tvg-id="08860a1edb50f25dd19987feab73f993" tvg-chno="576",Eurosport360HD 5
+http://192.168.1.205:9981/stream/channelid/504006152?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_140_2_85_C00000_0_0_0.png" tvg-id="70b701cdc97fe9a50ffbe8abca354d15" tvg-chno="577",Eurosport360HD 6
+http://192.168.1.205:9981/stream/channelid/1291958128?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_14A_6_85_C00000_0_0_0.png" tvg-id="7582babf15b57d188a03fb79ce7e9850" tvg-chno="578",Eurosport360HD 7
+http://192.168.1.205:9981/stream/channelid/1069187701?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_154_10_85_C00000_0_0_0.png" tvg-id="1d48ecdef59f794f3492b25f094e3b3b" tvg-chno="579",Eurosport360HD 8
+http://192.168.1.205:9981/stream/channelid/1592543261?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_104_B_85_C00000_0_0_0.png" tvg-id="b16c25af5d8d7c26e2556ab6c1ef9c6b" tvg-chno="580",Eurosport360HD 9
+http://192.168.1.205:9981/stream/channelid/790981809?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_84_9_85_C00000_0_0_0.png" tvg-id="e2f83c56ae5b80cf672c7b27d239368e" tvg-chno="582",DAZN 1 ( aleman )
+http://192.168.1.205:9981/stream/channelid/1446836450?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_7A_10_85_C00000_0_0_0.png" tvg-id="1895c48e36540f2c33201a9f46a58d9f" tvg-chno="583",DAZN 2 ( aleman )
+http://192.168.1.205:9981/stream/channelid/247764248?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_85_3_85_C00000_0_0_0.png" tvg-id="516e462c27c2eef041ff8dcb24901574" tvg-chno="626",Beate-Uhse.TV HD
+http://192.168.1.205:9981/stream/channelid/742813265?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_16_201_B_85_C00000_0_0_0.png" tvg-id="9d49e4cae9bf85c4eef5a476929b1929" tvg-chno="640",Blue Movie
+http://192.168.1.205:9981/stream/channelid/1256475037?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_D3_159_B_85_C00000_0_0_0.png" tvg-id="43aadf0059fc080c26191fe6e9eb014a" tvg-chno="641",Blue Movie 1
+http://192.168.1.205:9981/stream/channelid/14658115?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_D3_163_B_85_C00000_0_0_0.png" tvg-id="7cf2b727ca9bbabef94773c02c678055" tvg-chno="642",Blue Movie 2
+http://192.168.1.205:9981/stream/channelid/666366588?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_D3_16D_B_85_C00000_0_0_0.png" tvg-id="14ab9bbd40b2ae0f14428808f9da3ffa" tvg-chno="643",Blue Movie 3
+http://192.168.1.205:9981/stream/channelid/1033612052?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_219B_448_1_C00000_0_0_0.png" tvg-id="308ecf02efcdf3c81c18b8d6718bf9b0" tvg-chno="684",CANAL+
+http://192.168.1.205:9981/stream/channelid/47156784?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_C9_23D3_44A_1_C00000_0_0_0.png" tvg-id="73fe661551c4a703049bff6c4a46bad1" tvg-chno="836",PASS XXL DORCEL
+http://192.168.1.205:9981/stream/channelid/359071347?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_429E_446_1_C00000_0_0_0.png" tvg-id="db99e9564a9eedc757d3fc9e491d361e" tvg-chno="837",XXL
+http://192.168.1.205:9981/stream/channelid/1458149851?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_2205_44C_1_C00000_0_0_0.png" tvg-id="5b5301cd2b7feffc82022294e44405f0" tvg-chno="838",DORCEL TV
+http://192.168.1.205:9981/stream/channelid/1291932507?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_2204_44C_1_C00000_0_0_0.png" tvg-id="a91be8fd8d3721f5ce358896b3e3c79f" tvg-chno="839",DORCEL XXX
+http://192.168.1.205:9981/stream/channelid/2112363433?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_19CF_444_1_C00000_0_0_0.png" tvg-id="382138982a906848b59be4b9029db9c7" tvg-chno="840",LIBIDO TV
+http://192.168.1.205:9981/stream/channelid/406331704?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_26B3_43E_1_C00000_0_0_0.png" tvg-id="1e82ee2922c529b7cd657056f2acb3e9" tvg-chno="841",PENTHOUSE
+http://192.168.1.205:9981/stream/channelid/703496734?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_19D0_444_1_C00000_0_0_0.png" tvg-id="747b2d0acb78d1fa604f9c0d79eb256b" tvg-chno="842",PENTHOUSE BLACK
+http://192.168.1.205:9981/stream/channelid/170752884?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_24C5_43C_1_C00000_0_0_0.png" tvg-id="af1e3f3910b80776f3c3b05e3be081f7" tvg-chno="843",COLMAX TV
+http://192.168.1.205:9981/stream/channelid/960437935?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_1F49_42E_1_C00000_0_0_0.png" tvg-id="9546e2cf2e8d74e922c96c3152b4f03d" tvg-chno="844",PINK X
+http://192.168.1.205:9981/stream/channelid/1340229269?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_196B_44E_1_C00000_0_0_0.png" tvg-id="581cc9abf7bcd2f7de070da29bab2b77" tvg-chno="845",MAN X
+http://192.168.1.205:9981/stream/channelid/734600280?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_C9_23D6_44A_1_C00000_0_0_0.png" tvg-id="9bac3cc1860d590e589fae54f7017199" tvg-chno="846",PASS PINK X
+http://192.168.1.205:9981/stream/channelid/1094495387?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_3336_45B_1_C00000_0_0_0.png" tvg-id="0cf744a29ed09c6606cfd4a994c7059a" tvg-chno="1240",ServusTV Deutschland
+http://192.168.1.205:9981/stream/channelid/574945036?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_1332_3EF_1_C00000_0_0_0.png" tvg-id="0e2c5264e0f19f90ac55c161262a2e8b" tvg-chno="1242",ServusTV HD Deutschland
+http://192.168.1.205:9981/stream/channelid/1683106830?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_19_1331_3EF_1_C00000_0_0_0.png" tvg-id="6e1755944916eae6ab1eda3cfcb4ef6e" tvg-chno="1243",Servus TV HD Österreich
+http://192.168.1.205:9981/stream/channelid/341120878?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_3337_45B_1_C00000_0_0_0.png" tvg-id="a131dff741b72549e694572cd46a6237" tvg-chno="1244",ServusTV Oesterreich
+http://192.168.1.205:9981/stream/channelid/2011115937?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_2_113B_404_1_C00000_0_0_0.png" tvg-id="677b5393e3753c9668c65b3cc54b10da" tvg-chno="1313",RNE RADIO 1
+http://192.168.1.205:9981/stream/channelid/324238183?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_2_113F_404_1_C00000_0_0_0.png" tvg-id="0e62eb9e98ca7c12608b9b00119df531" tvg-chno="1350",RNE RADIO CLASICA
+http://192.168.1.205:9981/stream/channelid/518742542?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_22CE_434_1_C00000_0_0_0.png" tvg-id="d52f2624b7d923875f5fdd934c69e792" tvg-chno="1370",EVENEMENT SPORT 4K UHD
+http://192.168.1.205:9981/stream/channelid/606482389?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1F_7D1_449_1_C00000_0_0_0.png" tvg-id="ad28832963aac11b0ca346e1e6a4c6b9" tvg-chno="1387",INSIGHT TV UHD SPAIN
+http://192.168.1.205:9981/stream/channelid/696461485?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_6F40_445_1_C00000_0_0_0.png" tvg-id="0c1045b3549a81d5b16c048a3de82e15" tvg-chno="2000",COSMO
+http://192.168.1.205:9981/stream/channelid/860164108?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_AC_5_85_C00000_0_0_0.png" tvg-id="568c67e20c34854662fededcedeaa45a" tvg-chno="2000",egoFM
+http://192.168.1.205:9981/stream/channelid/1650953302?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_22CE_434_1_C00000_0_0_0.png" tvg-id="71a33be6da0e02a1ae52eb12a93170e4" tvg-chno="2000",EVENEMENT SPORT 4K UHD
+http://192.168.1.205:9981/stream/channelid/1715184497?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_100B_451_35_C00000_0_0_0.png" tvg-id="45b1fccef03f5873030ca22395bacb46" tvg-chno="2000",Hustler TV
+http://192.168.1.205:9981/stream/channelid/1325183301?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_100D_451_35_C00000_0_0_0.png" tvg-id="6806d7d054425c050b23e9193232c560" tvg-chno="2000",Hustler TV CZ
+http://192.168.1.205:9981/stream/channelid/1356269160?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_6F24_445_1_C00000_0_0_0.png" tvg-id="99c10a621ae8d9951793d5ed865164e3" tvg-chno="2000",Inforadio
+http://192.168.1.205:9981/stream/channelid/1644872089?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7D0_449_1_C00000_0_0_0.png" tvg-id="53b4d0c669fd46ffada76803c4c54f5a" tvg-chno="2000",INSIGHT TV UHD
+http://192.168.1.205:9981/stream/channelid/1188082771?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_3164_459_1_C00000_0_0_0.png" tvg-id="b1eed83f143765113d7cbb67b9724d75" tvg-chno="2000",MB SAT - Test2
+http://192.168.1.205:9981/stream/channelid/1071181489?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1086_3EE_1_C00000_0_0_0.png" tvg-id="ea4d386966be737c04ac896e4fcdba34" tvg-chno="2000",QVC UHD
+http://192.168.1.205:9981/stream/channelid/1765297642?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7DA_449_1_C00000_0_0_0.png" tvg-id="fab1f1ff8ea64fb53dfffd68b36a8b86" tvg-chno="2000",QVC ZWEI UHD
+http://192.168.1.205:9981/stream/channelid/2146546170?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_3173_459_1_C00000_0_0_0.png" tvg-id="e62e55b4dab1b8e725baa8dbf0a0f86d" tvg-chno="2000",Radio Gloria
+http://192.168.1.205:9981/stream/channelid/877997798?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_3354_45B_1_C00000_0_0_0.png" tvg-id="7ef16cf66bfa66507dca1e547f22fe7a" tvg-chno="2000",RADIO MARIA
+http://192.168.1.205:9981/stream/channelid/1986851198?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_2399_44A_1_C00000_0_0_0.png" tvg-id="720a266877c3e388cfcc8c7d843722dd" tvg-chno="2000",RADIOS 2
+http://192.168.1.205:9981/stream/channelid/1747323506?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7598_422_1_C00000_0_0_0.png" tvg-id="518b9cf573a2ce292049c05684a3dcd3" tvg-chno="2000",RADIOS ESP
+http://192.168.1.205:9981/stream/channelid/1973193553?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_113C_404_1_C00000_0_0_0.png" tvg-id="9a419f3a9601fe0046b0056603052ad2" tvg-chno="2000",RNE RADIO 3
+http://192.168.1.205:9981/stream/channelid/983515546?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_113D_404_1_C00000_0_0_0.png" tvg-id="266afa3df585c1d668c5e3eed2ffcd5e" tvg-chno="2000",RNE RADIO 4
+http://192.168.1.205:9981/stream/channelid/1039821350?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_113E_404_1_C00000_0_0_0.png" tvg-id="32841159fa2e78e8a9ebadecb6261b1e" tvg-chno="2000",RNE RADIO 5 TODO NOTICIAS
+http://192.168.1.205:9981/stream/channelid/1494320178?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_307A_3F5_1_C00000_0_0_0.png" tvg-id="a34a1fc25d35b968f679ac4802270cb6" tvg-chno="2000",RTL UHD
+http://192.168.1.205:9981/stream/channelid/1109346979?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_2_40B_1_C00000_0_0_0.png" tvg-id="a1ff63cd150e9c387f1d36d0368db314" tvg-chno="2000",UHD1 by ASTRA / HD+
+http://192.168.1.205:9981/stream/channelid/1298399137?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_FE1_451_35_C00000_0_0_0.png" tvg-id="9c8c59b78176189f029c2039f5ab84f3" tvg-chno="2000",Vivid CZ
+http://192.168.1.205:9981/stream/channelid/928615580?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_19E_3E8_22D4_EEEE0000_0_0_0.png" tvg-id="c1a84e08c45d5e813c724dc06a57a11d" tvg-chno="2001",La 1 HD
+http://192.168.1.205:9981/stream/channelid/139372737?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_95_F_22D4_EEEE0000_0_0_0.png" tvg-id="3e3cd54ca265dbf1cc18cb998bff8d82" tvg-chno="2002",Antena 3 HD
+http://192.168.1.205:9981/stream/channelid/1289043006?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_BF_10_22D4_EEEE0000_0_0_0.png" tvg-id="c11d4012d9f82c44dc2dfd12266354ae" tvg-chno="2003",Cuatro HD
+http://192.168.1.205:9981/stream/channelid/306191809?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_BE_10_22D4_EEEE0000_0_0_0.png" tvg-id="e9c62c51da9d237de51ce663f14dcf74" tvg-chno="2004",Telecinco HD
+http://192.168.1.205:9981/stream/channelid/1361889001?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_97_F_22D4_EEEE0000_0_0_0.png" tvg-id="c4c061bb5731510520e5b4358030f20e" tvg-chno="2005",La Sexta HD
+http://192.168.1.205:9981/stream/channelid/996262084?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_862_10A_22D4_EEEE0000_0_0_0.png" tvg-id="0e10400c68e35d09da8b32afe0b3adcc" tvg-chno="2006",Canal Sur 2
+http://192.168.1.205:9981/stream/channelid/205525006?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_86A_10A_22D4_EEEE0000_0_0_0.png" tvg-id="be025e82aa462ba99d7632ebe47090ff" tvg-chno="2007",Andalucia TV
+http://192.168.1.205:9981/stream/channelid/39715518?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_116_E_22D4_EEEE0000_0_0_0.png" tvg-id="b3043218fa6e07ce4dcf0db09b45df7a" tvg-chno="2008",GOL
+http://192.168.1.205:9981/stream/channelid/405931187?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_9C43_9C40_22D4_EEEE0000_0_0_0.png" tvg-id="69d3b8dc85f66938e4528e3542b57c89" tvg-chno="2009",Teledeporte HD
+http://192.168.1.205:9981/stream/channelid/1555616617?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_67_12_22D4_EEEE0000_0_0_0.png" tvg-id="eee47baaa0805293ccf4cba00a5629be" tvg-chno="2010",Real Madrid TV HD
+http://192.168.1.205:9981/stream/channelid/712762606?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_66_12_22D4_EEEE0000_0_0_0.png" tvg-id="68a5a65acf5abae9a499d89ea1b79e20" tvg-chno="2011",Be Mad HD
+http://192.168.1.205:9981/stream/channelid/1520870760?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
