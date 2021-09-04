@@ -1,193 +1,195 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7863_41A_1_C00000_0_0_0.png",LA 1 HD
-
+http://192.168.1.205:9981/stream/channelid/76109587?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png",LA 2
-
+http://192.168.1.205:9981/stream/channelid/1664680568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
-
+http://192.168.1.205:9981/stream/channelid/70085120?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="CUATRO HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7535_426_1_C00000_0_0_0.png",CUATRO HD
-
+http://192.168.1.205:9981/stream/channelid/678457126?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7536_426_1_C00000_0_0_0.png",TELECINCO HD
-
+http://192.168.1.205:9981/stream/channelid/1718295005?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="LA SEXTA HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
-
+http://192.168.1.205:9981/stream/channelid/206894910?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="#0 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_788C_414_1_C00000_0_0_0.png",#0 HD
-
+http://192.168.1.205:9981/stream/channelid/1447838519?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="#VAMOSHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7508_420_1_C00000_0_0_0.png",#VAMOSHD
-
+http://192.168.1.205:9981/stream/channelid/1025629066?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B6_3EC_1_C00000_0_0_0.png",M. SERIES HD
-
+http://192.168.1.205:9981/stream/channelid/210104260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. SERIES  2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7882_414_1_C00000_0_0_0.png",M. SERIES  2 HD
-
+http://192.168.1.205:9981/stream/channelid/894972387?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7504_420_1_C00000_0_0_0.png",FOX HD
-
+http://192.168.1.205:9981/stream/channelid/1609453385?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
-
+http://192.168.1.205:9981/stream/channelid/80186862?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7888_414_1_C00000_0_0_0.png",TNT HD
-
+http://192.168.1.205:9981/stream/channelid/1299198102?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78C0_3EC_1_C00000_0_0_0.png",COMEDYCENTRALHD
-
+http://192.168.1.205:9981/stream/channelid/1461255385?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="CALLE 13 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7824_428_1_C00000_0_0_0.png",CALLE 13 HD
-
+http://192.168.1.205:9981/stream/channelid/438099356?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B8_3EC_1_C00000_0_0_0.png",COSMO HD
-
+http://192.168.1.205:9981/stream/channelid/202223330?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7533_426_1_C00000_0_0_0.png",AMC HD
-
+http://192.168.1.205:9981/stream/channelid/231962253?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B5_3EC_1_C00000_0_0_0.png",FOX LIFE HD
-
+http://192.168.1.205:9981/stream/channelid/750653752?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78BE_3EC_1_C00000_0_0_0.png",AXN WHITE HD
-
+http://192.168.1.205:9981/stream/channelid/97244711?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="SYFY HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7825_428_1_C00000_0_0_0.png",SYFY HD
-
+http://192.168.1.205:9981/stream/channelid/2036522823?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. Fest" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74FF_420_1_C00000_0_0_0.png",M. Fest
-
+http://192.168.1.205:9981/stream/channelid/421654249?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV ESPAÑA
-
+http://192.168.1.205:9981/stream/channelid/603805260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
-
+http://192.168.1.205:9981/stream/channelid/1166664302?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7587_412_1_C00000_0_0_0.png",NEOX
-
+http://192.168.1.205:9981/stream/channelid/2016992778?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="ENERGY" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749F_41C_1_C00000_0_0_0.png",ENERGY
-
+http://192.168.1.205:9981/stream/channelid/933213988?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M.ESTRENOSHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7539_426_1_C00000_0_0_0.png",M.ESTRENOSHD
-
+http://192.168.1.205:9981/stream/channelid/1386725375?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D4_3F8_1_C00000_0_0_0.png",M. ESTRENOS 2 HD
-
+http://192.168.1.205:9981/stream/channelid/2009577568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78BF_3EC_1_C00000_0_0_0.png",M. CLÁSICOS HD
-
+http://192.168.1.205:9981/stream/channelid/1930793164?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. ACCIÓN HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7509_420_1_C00000_0_0_0.png",M. ACCIÓN HD
-
+http://192.168.1.205:9981/stream/channelid/1335021351?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7857_41A_1_C00000_0_0_0.png",M.COMEDIA HD
-
+http://192.168.1.205:9981/stream/channelid/719793427?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_750B_420_1_C00000_0_0_0.png",M. DRAMA HD
-
+http://192.168.1.205:9981/stream/channelid/2111406679?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="M. Cine Español" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7736_416_1_C00000_0_0_0.png",M. Cine Español
-
+http://192.168.1.205:9981/stream/channelid/1948086502?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7885_414_1_C00000_0_0_0.png",TCM HD
-
+http://192.168.1.205:9981/stream/channelid/1884317849?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_750C_420_1_C00000_0_0_0.png",HOLLYWOODHD
-
+http://192.168.1.205:9981/stream/channelid/1004980851?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="SUNDANCE TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76A5_41E_1_C00000_0_0_0.png",SUNDANCE TV
-
+http://192.168.1.205:9981/stream/channelid/202111808?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_756B_412_1_C00000_0_0_0.png",PARAMOUNT
-
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_750F_420_1_C00000_0_0_0.png",M. LaLiga HD
-
-#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7853_41A_1_C00000_0_0_0.png",M. LaLiga 1 HD
-
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png",M. LaLiga 2 HD
-
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D3_3F8_1_C00000_0_0_0.png",M. LaLiga 3 HD
-
-#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES
-
-#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png",M.LCAMPEON1
-
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png",M.LCAMPEON2
-
-#EXTINF:-1 tvg-id="M. DEPORTESHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7828_428_1_C00000_0_0_0.png",M. DEPORTESHD
-
-#EXTINF:-1 tvg-id="M. DEPORTES1HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7532_426_1_C00000_0_0_0.png",M. DEPORTES1HD
-
-#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png",M. DEPORTES2
-
-#EXTINF:-1 tvg-id="M. DEPORTES3" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png",M. DEPORTES3
-
-#EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png",M. GOLF HD
-
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7531_426_1_C00000_0_0_0.png",DAZN F1 HD
-
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7855_41A_1_C00000_0_0_0.png",DAZN 1 HD
-
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_785F_41A_1_C00000_0_0_0.png",DAZN 2 HD
-
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7826_428_1_C00000_0_0_0.png",EUROSPORT1HD
-
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png",EUROSPORT 2
-
-#EXTINF:-1 tvg-id="GOL" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL
-
-#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png",TELEDEPORTE
-
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_788D_414_1_C00000_0_0_0.png",CAZAyPESCA HD
-
-#EXTINF:-1 tvg-id="IBERALIA TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_746A_3F0_1_C00000_0_0_0.png",IBERALIA TV
-
-#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_782D_428_1_C00000_0_0_0.png",TOROS HD
-
-#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7798_424_1_C00000_0_0_0.png",R. MADRID TV
-
-#EXTINF:-1 tvg-id="BARÇA TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A0_41C_1_C00000_0_0_0.png",BARÇA TV
-
-#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7829_428_1_C00000_0_0_0.png",NAT GEO HD
-
-#EXTINF:-1 tvg-id="NG WILD HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7889_414_1_C00000_0_0_0.png",NG WILD HD
-
-#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7731_416_1_C00000_0_0_0.png",HISTORIA
-
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_772F_416_1_C00000_0_0_0.png",DISCOVERY
-
-#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_778A_424_1_C00000_0_0_0.png",CANAL ODISEA
-
-#EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_772D_416_1_C00000_0_0_0.png",BLAZE
-
-#EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7884_414_1_C00000_0_0_0.png",VIAJAR HD
-
-#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7732_416_1_C00000_0_0_0.png",CRIMEN+INVES
-
-#EXTINF:-1 tvg-id="CANAL DECASA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7795_424_1_C00000_0_0_0.png",CANAL DECASA
-
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png",CANAL COCINA
-
-#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749A_41C_1_C00000_0_0_0.png",DIVINITY
-
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
-
-#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png",BE MAD
-
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749C_41C_1_C00000_0_0_0.png",BABY TV
-
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png",DISNEY JR
-
-#EXTINF:-1 tvg-id="CANAL PANDA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png",CANAL PANDA
-
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7697_41E_1_C00000_0_0_0.png",NICK JR
-
-#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7820_428_1_C00000_0_0_0.png",NICKELODEONHD
-
-#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_788B_414_1_C00000_0_0_0.png",DISNEY CH HD
-
-#EXTINF:-1 tvg-id="BOING" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749E_41C_1_C00000_0_0_0.png",BOING
-
-#EXTINF:-1 tvg-id="CLAN TVE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png",CLAN TVE
-
-#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png",MTV 00s
-
-#EXTINF:-1 tvg-id="MEZZO" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7699_41E_1_C00000_0_0_0.png",MEZZO
-
-#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7823_428_1_C00000_0_0_0.png",MEZZO LIVE HD
-
-#EXTINF:-1 tvg-id="CLASSICA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7577_412_1_C00000_0_0_0.png",CLASSICA
-
-#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7738_416_1_C00000_0_0_0.png",24 HORAS
-
-#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_1B60_3FC_1_C00000_0_0_0.png",Cubavision Internacional
-
-#EXTINF:-1 tvg-id="TELESUR HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7A49_410_1_C00000_0_0_0.png",TELESUR HD
-
-#EXTINF:-1 tvg-id="CANAL SUR A." tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7729_416_1_C00000_0_0_0.png",CANAL SUR A.
-
-#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_18F1_3F4_1_C00000_0_0_0.png",TVGA HD EUROPA
-
-#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_18F0_3F4_1_C00000_0_0_0.png",EXTREMADURA SAT
-
-#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7473_3F0_1_C00000_0_0_0.png",ARAGON TV INT
-
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D8_3F8_1_C00000_0_0_0.png",DAZN 3 HD
-
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D6_3F8_1_C00000_0_0_0.png",DAZN 4 HD
-
+http://192.168.1.205:9981/stream/channelid/960501512?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="DreamWorks HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_750D_420_1_C00000_0_0_0.png",DreamWorks HD
+http://192.168.1.205:9981/stream/channelid/1154585480?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_750F_420_1_C00000_0_0_0.png",M. LaLiga HD
+http://192.168.1.205:9981/stream/channelid/351054154?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7853_41A_1_C00000_0_0_0.png",M. LaLiga 1 HD
+http://192.168.1.205:9981/stream/channelid/1289760690?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES
+http://192.168.1.205:9981/stream/channelid/1134642280?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. DEPORTESHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7828_428_1_C00000_0_0_0.png",M. DEPORTESHD
+http://192.168.1.205:9981/stream/channelid/1091729849?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7826_428_1_C00000_0_0_0.png",EUROSPORT1HD
+http://192.168.1.205:9981/stream/channelid/1432932798?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7531_426_1_C00000_0_0_0.png",DAZN F1 HD
+http://192.168.1.205:9981/stream/channelid/1856130260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7855_41A_1_C00000_0_0_0.png",DAZN 1 HD
+http://192.168.1.205:9981/stream/channelid/1069778004?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_785F_41A_1_C00000_0_0_0.png",DAZN 2 HD
+http://192.168.1.205:9981/stream/channelid/1575571693?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A7_41C_1_C00000_0_0_0.png",EUROSPORT 2
+http://192.168.1.205:9981/stream/channelid/1006237502?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="GOL" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL
+http://192.168.1.205:9981/stream/channelid/848067260?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76CC_40E_1_C00000_0_0_0.png",TELEDEPORTE
+http://192.168.1.205:9981/stream/channelid/409971312?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7798_424_1_C00000_0_0_0.png",R. MADRID TV
+http://192.168.1.205:9981/stream/channelid/821683918?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="BARÇA TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A0_41C_1_C00000_0_0_0.png",BARÇA TV
+http://192.168.1.205:9981/stream/channelid/2096815391?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_78B7_3EC_1_C00000_0_0_0.png",M. GOLF HD
+http://192.168.1.205:9981/stream/channelid/206199139?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74CD_3F8_1_C00000_0_0_0.png",M. LaLiga 2 HD
+http://192.168.1.205:9981/stream/channelid/345063581?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D3_3F8_1_C00000_0_0_0.png",M. LaLiga 3 HD
+http://192.168.1.205:9981/stream/channelid/783820409?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D5_3F8_1_C00000_0_0_0.png",M.LCAMPEON1
+http://192.168.1.205:9981/stream/channelid/511491962?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74DB_3F8_1_C00000_0_0_0.png",M.LCAMPEON2
+http://192.168.1.205:9981/stream/channelid/655089853?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. DEPORTES1HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7532_426_1_C00000_0_0_0.png",M. DEPORTES1HD
+http://192.168.1.205:9981/stream/channelid/459304957?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_77C2_40A_1_C00000_0_0_0.png",M. DEPORTES2
+http://192.168.1.205:9981/stream/channelid/1470143382?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="M. DEPORTES3" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_77BF_40A_1_C00000_0_0_0.png",M. DEPORTES3
+http://192.168.1.205:9981/stream/channelid/17956444?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D8_3F8_1_C00000_0_0_0.png",DAZN 3 HD
+http://192.168.1.205:9981/stream/channelid/1291237253?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_74D6_3F8_1_C00000_0_0_0.png",DAZN 4 HD
+http://192.168.1.205:9981/stream/channelid/1831721380?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_788D_414_1_C00000_0_0_0.png",CAZAyPESCA HD
+http://192.168.1.205:9981/stream/channelid/1494854447?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_746A_3F0_1_C00000_0_0_0.png",IBERALIA TV
+http://192.168.1.205:9981/stream/channelid/509228574?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="TOROS HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_782D_428_1_C00000_0_0_0.png",TOROS HD
+http://192.168.1.205:9981/stream/channelid/1429501679?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7829_428_1_C00000_0_0_0.png",NAT GEO HD
+http://192.168.1.205:9981/stream/channelid/992128215?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7889_414_1_C00000_0_0_0.png",NG WILD HD
+http://192.168.1.205:9981/stream/channelid/1189838633?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="HISTORIA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7731_416_1_C00000_0_0_0.png",HISTORIA
+http://192.168.1.205:9981/stream/channelid/1505355966?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_772F_416_1_C00000_0_0_0.png",DISCOVERY
+http://192.168.1.205:9981/stream/channelid/1464873459?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_778A_424_1_C00000_0_0_0.png",CANAL ODISEA
+http://192.168.1.205:9981/stream/channelid/305438128?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="BLAZE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_772D_416_1_C00000_0_0_0.png",BLAZE
+http://192.168.1.205:9981/stream/channelid/1492488163?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7884_414_1_C00000_0_0_0.png",VIAJAR HD
+http://192.168.1.205:9981/stream/channelid/96904430?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7732_416_1_C00000_0_0_0.png",CRIMEN+INVES
+http://192.168.1.205:9981/stream/channelid/555445411?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7795_424_1_C00000_0_0_0.png",CANAL DECASA
+http://192.168.1.205:9981/stream/channelid/874058514?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76CE_40E_1_C00000_0_0_0.png",CANAL COCINA
+http://192.168.1.205:9981/stream/channelid/479838151?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DIVINITY" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749A_41C_1_C00000_0_0_0.png",DIVINITY
+http://192.168.1.205:9981/stream/channelid/226582598?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
+http://192.168.1.205:9981/stream/channelid/355868211?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="BE MAD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_74A8_41C_1_C00000_0_0_0.png",BE MAD
+http://192.168.1.205:9981/stream/channelid/907040809?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749C_41C_1_C00000_0_0_0.png",BABY TV
+http://192.168.1.205:9981/stream/channelid/77513348?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_746B_3F0_1_C00000_0_0_0.png",DISNEY JR
+http://192.168.1.205:9981/stream/channelid/2086590421?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76C4_40E_1_C00000_0_0_0.png",CANAL PANDA
+http://192.168.1.205:9981/stream/channelid/1142614636?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7697_41E_1_C00000_0_0_0.png",NICK JR
+http://192.168.1.205:9981/stream/channelid/858058459?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7820_428_1_C00000_0_0_0.png",NICKELODEONHD
+http://192.168.1.205:9981/stream/channelid/260507725?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_788B_414_1_C00000_0_0_0.png",DISNEY CH HD
+http://192.168.1.205:9981/stream/channelid/1176042639?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="BOING" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_749E_41C_1_C00000_0_0_0.png",BOING
+http://192.168.1.205:9981/stream/channelid/906141240?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_76C1_40E_1_C00000_0_0_0.png",CLAN TVE
+http://192.168.1.205:9981/stream/channelid/177696714?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_6FF0_436_1_C00000_0_0_0.png",MTV 00s
+http://192.168.1.205:9981/stream/channelid/1075693568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="MEZZO" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7699_41E_1_C00000_0_0_0.png",MEZZO
+http://192.168.1.205:9981/stream/channelid/232461172?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="MEZZO LIVE HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7823_428_1_C00000_0_0_0.png",MEZZO LIVE HD
+http://192.168.1.205:9981/stream/channelid/975160465?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="CLASSICA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7577_412_1_C00000_0_0_0.png",CLASSICA
+http://192.168.1.205:9981/stream/channelid/1412723208?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="PLAYBOY TV" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_778B_424_1_C00000_0_0_0.png",PLAYBOY TV
+http://192.168.1.205:9981/stream/channelid/1923425750?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="24 HORAS" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7738_416_1_C00000_0_0_0.png",24 HORAS
+http://192.168.1.205:9981/stream/channelid/1740015189?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="Cubavision Internacional" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_1B60_3FC_1_C00000_0_0_0.png",Cubavision Internacional
+http://192.168.1.205:9981/stream/channelid/387950773?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="TELESUR HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7A49_410_1_C00000_0_0_0.png",TELESUR HD
+http://192.168.1.205:9981/stream/channelid/557465810?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_18F1_3F4_1_C00000_0_0_0.png",TVGA HD EUROPA
+http://192.168.1.205:9981/stream/channelid/872073631?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_18F0_3F4_1_C00000_0_0_0.png",EXTREMADURA SAT
+http://192.168.1.205:9981/stream/channelid/96228608?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_1_7473_3F0_1_C00000_0_0_0.png",ARAGON TV INT
+http://192.168.1.205:9981/stream/channelid/1310554307?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
+
 
 
 
