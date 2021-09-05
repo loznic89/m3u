@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7863_41A_1_C00000_0_0_0.png",LA 1 HD
 http://192.168.1.205:9981/stream/channelid/76109587?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
-#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_7474_3F0_1_C00000_0_0_0.png",La 2 HD
+#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="http://tropical.jungle-team.online/tvheadend/picon/1_0_1_1A2_3E8_22D4_EEEE0000_0_0_0.png",La 2 HD
 http://192.168.1.205:9981/stream/channelid/1664680568?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/jungla-team/Picon-enigma2-Movistar/master/jungle-picon-Movistar-color/picon/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 http://192.168.1.205:9981/stream/channelid/70085120?auth=PX2rY-lW6omSVfqxUGjOIuIjjHho&profile=pass
